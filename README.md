@@ -232,7 +232,7 @@ plt.title("90° Rotation")
 plt.axis("off")
 plt.show()
 ```
-Output :
+# Output :
 
 # Image Translation
 Original image is displayed
