@@ -1,6 +1,7 @@
 # Geometric Transformations Using OpenCV
-# DEVELOPED BY : SHAJIVE KUMAR J 
-# REG NO : 212225230258
+# DEVELOPED BY : 
+NAME : SHAJIVE KUMAR J 
+REG NO : 212225230258
 # Aim
 To write a Python program using OpenCV to perform various geometric transformations on an image.
 
@@ -12,12 +13,19 @@ Image Shearing
 Image Reflection (Flipping)
 Image Rotation
 
-# Software Used
+# Software Used:
+
+
 Anaconda – Python 3.7
+
 Jupyter Notebook / VS Code
+
 OpenCV (cv2)
+
 NumPy
+
 Matplotlib
+
 ## Algorithm
 # Step 1:
 Import the required libraries: OpenCV, NumPy, and Matplotlib.
