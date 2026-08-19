@@ -1,7 +1,11 @@
 # Geometric Transformations Using OpenCV
 # DEVELOPED BY : 
+
 NAME : SHAJIVE KUMAR J 
+
 REG NO : 212225230258
+
+
 # Aim
 To write a Python program using OpenCV to perform various geometric transformations on an image.
 
